@@ -1,0 +1,18 @@
+.login{
+    margin: 20 20 20 20;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+    padding: 30px;
+    padding-bottom: 10px;
+    border-radius: 0.25rem;
+    text-align: center;
+}
+
+.login_body{
+    align-items: center;
+    text-align: center;
+}
